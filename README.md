@@ -1,6 +1,6 @@
 # 🎨 Neural Style Transfer Web App
 
-Transform your photos into artwork using deep learning and pre-trained models like `candy`, `udnie`, `rain_princess`, and more — all powered by PyTorch and Flask with a beautiful user interface.
+Transform your photos into artwork using deep learning and pre-trained models like `oil painting`,`candy`, `udnie`, `rain_princess`, and more — all powered by PyTorch and Flask with a beautiful user interface.
 
 ## 🚀 Features
 
