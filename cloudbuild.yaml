@@ -1,9 +1,9 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/$PROJECT_ID/style-transfer-app', '.']
+    args: ['build', '-t', 'gcr.io/$adroit-lock-289808/style-transfer-app', '.']
 
 images:
-  - 'gcr.io/$PROJECT_ID/style-transfer-app'
+  - 'gcr.io/$adroit-lock-289808/style-transfer-app'
 
 timeout: '1200s'  # Build timeout of 20 minutes
 
