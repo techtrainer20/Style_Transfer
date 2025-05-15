@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir torch torchvision --index-url https://download.py
 RUN pip install --no-cache-dir gunicorn Pillow
 
 ENV PORT=8080
-CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app_multiple_styles:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]
