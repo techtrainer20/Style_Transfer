@@ -87,7 +87,10 @@ Install via:
 pip install -r requirements.txt
 ```
 ## Screenshots
-![image](https://github.com/user-attachments/assets/719cc6d7-a6be-410b-b33a-edc4bad9a7b8)
+![image](https://github.com/user-attachments/assets/112126e9-671d-4088-a5af-252a67f00a2a)
+![image](https://github.com/user-attachments/assets/c0823029-b9cc-4c2a-a9f9-b0115d5bd2a2)
+![image](https://github.com/user-attachments/assets/28a32759-415a-44f0-a9bb-4c5b3d23fef2)
+
 
 ## 📄 License
 
