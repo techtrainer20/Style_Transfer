@@ -15,7 +15,7 @@ Transform your photos into artwork using deep learning and pre-trained models li
 
 ```
 neural-style-transfer-app/
-├── app.py                  # Flask backend logic
+├── app_multiple_styles.py                  # Flask backend logic
 ├── model.py                # TransformerNet model definition
 ├── templates/
 │   └── index.html          # Frontend HTML page
@@ -54,14 +54,14 @@ cd neural-style-transfer-app
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+Windows: venv\Scripts\activate # Linux source venv/bin/activate 
 pip install -r requirements.txt
 ```
 
 3. Run the app:
 
 ```bash
-python app.py
+python app_multiple_styles.py
 ```
 
 Visit `http://127.0.0.1:5000` in your browser.
